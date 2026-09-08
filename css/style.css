@@ -1076,7 +1076,6 @@ h6 {
 
 #contact .container-fluid .col-md-6:first-child {
     min-height: 300px;
-    background: url(../img/contact-bg.jpg) center center no-repeat;
     background-size: cover;
 }
 
